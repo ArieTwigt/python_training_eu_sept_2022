@@ -8,4 +8,5 @@ radius = diameter / 2
 
 size = math.pow(radius, 2) * math.pi
 size_rounded = round(size, rouding)
+
 print(size_rounded)
